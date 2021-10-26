@@ -1,4 +1,4 @@
-![](Untitled.png)
+![](https://github.com/ElizavetaGorelova/SomePics/blob/main/Untitled.png)
 
 
 - 👋 Hi, I’m @ElizavetaGorelova
