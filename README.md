@@ -20,5 +20,9 @@ I'm a Computer Information Systems - Data Analytics student from New York :woman
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="36" height="36"/>&nbsp;
-  
 </div>
+
+## Blog Posts:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="36" height="36"/>&nbsp;
+</div> Check me on [Medium](https://medium.com/@ElizavetaGorelova)
