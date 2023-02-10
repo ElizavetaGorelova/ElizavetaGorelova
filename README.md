@@ -1,4 +1,3 @@
-![](https://github.com/ElizavetaGorelova/SomePics/blob/main/piccc.png)
 
 I'm a tech enthusiast who is passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. Currently pursuing a Bachelors in Computer Information Systems and Data Analytics 🎓 I love to learn and contribute in any and every possible way!
 
