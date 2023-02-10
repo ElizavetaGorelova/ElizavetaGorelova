@@ -7,4 +7,4 @@ I'm a Computer Information Systems - Data Analytics student from New York :woman
 - :robot: I'm currently learning Machine Learning and Natural Language Processing;
 - :memo: Exploring Technical Content Writing;
 - :handshake: In my free time, I contribute to DataQuest learning community by reviewing projects and helping other students;
-- :mailbox_with_mail: How to reach me: gorelovelizaveta01@gmail.com;
+- :mailbox_with_mail: How to reach me: gorelovelizaveta01@gmail.com
