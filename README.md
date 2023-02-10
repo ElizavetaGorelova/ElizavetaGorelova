@@ -8,3 +8,9 @@ I'm a Computer Information Systems - Data Analytics student from New York :woman
 - :memo: Exploring Technical Content Writing;
 - :handshake: In my free time, I contribute to DataQuest learning community by reviewing projects and helping other students;
 - :mailbox_with_mail: How to reach me: gorelovelizaveta01@gmail.com
+
+## Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  
+</div>
