@@ -23,4 +23,4 @@ I'm a Computer Information Systems - Data Analytics student from New York :woman
 </div>
 
 ## Blog Posts:
-:memo: Check me on [Medium](https://medium.com/@ElizavetaGorelova);
+:memo: Follow me on [Medium](https://medium.com/@ElizavetaGorelova);
