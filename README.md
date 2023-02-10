@@ -2,7 +2,7 @@
 
 
 ## About Me:
-:woman_student: :statue_of_liberty: I'm a Computer Information Systems - Data Analytics student from New York;
+I'm a Computer Information Systems - Data Analytics student from New York :woman_student: :statue_of_liberty:
 - :magic_wand: I'm currently working on something cool;
 - :robot: I'm currently learning Machine Learning and Natural Language Processing;
 - :memo: Exploring Technical Content Writing;
