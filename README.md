@@ -2,9 +2,9 @@
 
 
 ## About Me:
-I'm a Computer Information Systems - Data Analytics student from New York :woman_student: :statue_of_liberty:
-- :crystal_ball:I'm currently working on something cool;
-- :robot:I'm currently learning Machine Learning and Natural Language Processing;
-- :memo:Exploring Technical Content Writing;
-- In my free time, I contribute to DataQuest learning community by reviewing projects and helping other students;
-- :mailbox_with_mail:How to reach me: gorelovelizaveta01@gmail.com;
+:woman_student: :statue_of_liberty: I'm a Computer Information Systems - Data Analytics student from New York;
+- :magic_wand: I'm currently working on something cool;
+- :robot: I'm currently learning Machine Learning and Natural Language Processing;
+- :memo: Exploring Technical Content Writing;
+- :handshake: In my free time, I contribute to DataQuest learning community by reviewing projects and helping other students;
+- :mailbox_with_mail: How to reach me: gorelovelizaveta01@gmail.com;
