@@ -22,5 +22,8 @@ I'm a Computer Information Systems - Data Analytics student from New York :woman
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="36" height="36"/>&nbsp;
 </div>
 
+## Github Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElizavetaGorelova&theme=dark&background=E7BEEC)](https://git.io/streak-stats)
+
 ## Blog Posts:
 :memo: Follow me on [Medium](https://medium.com/@ElizavetaGorelova);
