@@ -24,7 +24,8 @@ I'm a Computer Information Systems - Data Analytics student from New York :woman
 
 ## Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElizavetaGorelova&theme=dark&background=4C4C4F)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizavetaGorelova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizavetaGorelova&layout=compact&theme=vision-friendly-dark&background=4C4C4F)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Blog Posts:
 :memo: Follow me on [Medium](https://medium.com/@ElizavetaGorelova);
