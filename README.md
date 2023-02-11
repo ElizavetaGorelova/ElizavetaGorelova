@@ -2,8 +2,9 @@
 
 
 ## 🔘 About Me:
-I'm a Computer Information Systems - Data Analytics student from New York :woman_student: :statue_of_liberty:
-- :magic_wand: I'm currently working on something cool;
+Ambitious and hardworking, I can pick up new skills and methods of working with ease while efficiently applying previously learned skills.  Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments, I am presently looking for a Data Analyst | Data Scientist internship with a forward-moving company 🏢
+
+- 👩🏼‍💻 Computer Information Systems - Data Analytics student from New York;
 - :robot: I'm currently learning Machine Learning and Natural Language Processing;
 - :memo: Exploring Technical Content Writing;
 - :handshake: Learning Assistant in [DataQuest](https://www.dataquest.io/) - online learning platform dedicated to teaching users data science;
