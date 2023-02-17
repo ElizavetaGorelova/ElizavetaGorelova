@@ -1,8 +1,10 @@
 <img width="1834" alt="io perte memojiMaker" src="https://user-images.githubusercontent.com/88107066/218246500-1a0d75f8-f92b-405f-96f6-9695562832e0.png">
 
 
-## 🔘 About Me:
+## :octocat: About Me:
 Ambitious and hardworking, I can pick up new skills and methods of working with ease while efficiently applying previously learned skills.  Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments, I am presently looking for a Data Analyst | Data Scientist internship with a forward-moving company 🏢
+
+:white_small_square: [Check My Portfolio](https://elizaveta-gorelova.webflow.io/) :white_small_square:
 
 - 👩🏼‍💻 Computer Information Systems - Data Analytics student from New York;
 - :robot: I'm currently learning Machine Learning and Natural Language Processing;
